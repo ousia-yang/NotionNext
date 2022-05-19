@@ -1,7 +1,7 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/zh/features/personality
 const BLOG = {
   AUTHOR: 'OUSIA.', // 作者
-  BIO: '一个自认为有良知和原则的原创作者、金属头、艾欧泽亚居民。婉拒一切软硬性质的传教，谢谢合作。', // 作者简介
+  BIO: '一个自认为有良知和原则的原创作者、金属头、艾欧泽亚居民', // 作者简介
   LINK: 'https://tangly1024.com', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
